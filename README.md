@@ -81,11 +81,11 @@ Do not invent result values. Report the measurements from your own VM and discus
 ## D2 rubric mapping
 | Rubric component | Project evidence |
 |---|---|
-| Complete Application Functionality (4) | UDP synchronization, TCP requests/status, repeated samples, concurrent TCP handlers |
-| Dynamic SDN Functionality (6) | MAC learning plus dynamic UDP/5005 classification and queue selection |
-| Challenging Scenario / Robustness (4) | Configurable delay/jitter and h3-generated congestion |
-| Performance Evaluation & Comparison (5) | CSV RTT/error metrics and QoS/no-QoS comparison |
-| Documentation, Final Demo & Viva (6) | Architecture, setup, commands, verification, result table |
+| Complete Application Functionality  | UDP synchronization, TCP requests/status, repeated samples, concurrent TCP handlers |
+| Dynamic SDN Functionality  | MAC learning plus dynamic UDP/5005 classification and queue selection |
+| Challenging Scenario / Robustness | Configurable delay/jitter and h3-generated congestion |
+| Performance Evaluation & Comparison  | CSV RTT/error metrics and QoS/no-QoS comparison |
+| Documentation, Final Demo & Viva  | Architecture, setup, commands, verification, result table |
 
 ## Limitations to disclose
 - Clock skew is simulated in application timestamps; system time is not changed.

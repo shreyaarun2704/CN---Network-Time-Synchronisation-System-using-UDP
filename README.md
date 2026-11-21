@@ -1,4 +1,4 @@
-# Network Time Synchronization over TCP/UDP + SDN — Demo 2
+# Network Time Synchronization over UDP + SDN 
 
 ## Architecture
 - h1 (10.0.0.1): reference time server; UDP and TCP port 5005.
